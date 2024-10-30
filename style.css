@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  color:red;
+}
+h2 {
+  color:blue;
+}
+h3 {
+  color:green;
+}
+h4 {
+  color:gray;
+}
+p {
+  color:brown;
+  font-size:20pt;
+
+}
